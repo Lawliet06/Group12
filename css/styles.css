@@ -1,0 +1,37 @@
+.contentC {
+    background-color: white;
+    
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap:wrap;
+  
+  
+}
+
+.cards {
+  width: 130px;
+  
+}
+
+.card-border {
+  background-color: aliceblue;
+  border: solid 2px rgb(112, 112, 255);
+  border-radius: 10px;
+  width: 120px;
+  height: 120px;
+}
+
+.cards-info p {
+  text-wrap: wrap;
+  text-align: center;
+}
+
+.pheading {
+  font-size: 30px;
+  text-align: center;
+}
